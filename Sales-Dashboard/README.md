@@ -25,9 +25,9 @@ This project includes both data cleaning and data analysis processes. Raw data w
 - cleaned_data.xlsx
 - dashboard.xlsx / pbix
 
-  BEFORE
+
 <img width="569" height="1206" alt="Screenshot 2026-03-31 210112" src="https://github.com/user-attachments/assets/2017e345-6e28-48d9-adb8-588504fb1fa5" />
-  AFTER
+
 <img width="649" height="1202" alt="Screenshot 2026-03-31 210125" src="https://github.com/user-attachments/assets/1c16a241-570f-4666-8e81-a617af2fb6ad" />
-  DASHBOARD
+
 <img width="1673" height="941" alt="Screenshot 2026-03-31 210200" src="https://github.com/user-attachments/assets/f3f0c7a9-8b53-4dd8-92fa-7490602acea8" />
