@@ -19,3 +19,6 @@ The dataset became clean, structured, and ready for further analysis.
 
 ## 📷 Cleaned Data
 ![Cleaned Data](cleaned-data.png)
+
+## 🚀 Conclusion
+This project demonstrates my ability to transform raw data into structured datasets and generate meaningful insights through data analysis and visualization.
