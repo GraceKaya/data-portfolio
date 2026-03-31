@@ -32,4 +32,4 @@ This project includes both data cleaning and data analysis processes. Raw data w
 ![Cleaned Data](cleaned-data.png)
 
 ## 📊 Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](DASHBOARD.png)
