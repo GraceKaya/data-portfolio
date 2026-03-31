@@ -25,8 +25,11 @@ This project includes both data cleaning and data analysis processes. Raw data w
 - cleaned_data.xlsx
 - dashboard.xlsx / pbix
 
-<img width="569" height="1206" alt="raw-data" src="https://github.com/user-attachments/assets/758bdaa7-2c89-4176-9053-8d6ef430a19e" />
+## 📷 Raw Data
+![Raw Data](raw-data.png)
 
-<img width="649" height="1202" alt="cleaned-data" src="https://github.com/user-attachments/assets/f548f96f-deb3-49ac-a5b1-83bf41dedb78" />
+## 📷 Cleaned Data
+![Cleaned Data](cleaned-data.png)
 
-<img width="1673" height="941" alt="DASHBOARD" src="https://github.com/user-attachments/assets/371cb789-08e6-45c2-9f25-915fba90fd99" />
+## 📊 Dashboard
+![Dashboard](dashboard.png)
