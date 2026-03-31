@@ -26,7 +26,7 @@ The dataset includes the following key fields:
 - Payment Status & Payment Date
 
 ## 📷 Preview
-![Overview](sales-data-overview.png)
+![Overview](sales_data_cleaned.png)
 
 ## 💡 Key Outcome
 - Data is structured and ready for analysis
