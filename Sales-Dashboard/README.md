@@ -21,15 +21,7 @@ This project includes both data cleaning and data analysis processes. Raw data w
 - Specific products contribute the most revenue
 
 ## 📁 Files
-- raw_data.xlsx
-- cleaned_data.xlsx
-- dashboard.xlsx / pbix
-
-## 📷 Raw Data
-![Raw Data](raw-data.png)
-
-## 📷 Cleaned Data
-![Cleaned Data](cleaned-data.png)
+- 
 
 ## 📊 Dashboard
 ![Dashboard](DASHBOARD.png)
