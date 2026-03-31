@@ -14,5 +14,8 @@ This project focuses on cleaning raw data using Microsoft Excel. The dataset was
 ## 💡 Result
 The dataset became clean, structured, and ready for further analysis.
 
-## 📁 Files
-- dataset.xlsx
+## 📷 Raw Data
+![Raw Data](raw-data.png)
+
+## 📷 Cleaned Data
+![Cleaned Data](cleaned-data.png)
