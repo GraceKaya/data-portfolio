@@ -1,4 +1,6 @@
 # Sales Data Analysis & Dashboard
+## 📊 Business Case
+This dashboard helps monitor operational performance, identify cost drivers, and evaluate profitability.
 
 ## 🚀 Project Overview
 This project demonstrates an end-to-end data analysis process, starting from raw data cleaning to building an interactive dashboard using Excel and Power BI.
